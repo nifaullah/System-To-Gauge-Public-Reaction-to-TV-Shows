@@ -23,7 +23,7 @@ Software Details
 •	Data Processing and Basic Analysis: PySpark SQL and PySpark DataFrame
 •	Advanced Analysis: Python libraries like Seaborn, NLTK, TextBlob
 
-Demo: CLick on the <a href="https://www.dropbox.com/l/scl/AABlkJDZQB74TbEP5KET37G_ddUCF9pKAIk">link</a> to view the demo video 
+Demo: Click on the <a href="https://www.dropbox.com/l/scl/AABlkJDZQB74TbEP5KET37G_ddUCF9pKAIk">link</a> to view the demo video 
 
 This was a group project involving
 
